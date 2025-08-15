@@ -62,7 +62,6 @@ for (String codigo : conteoCodigos.keySet()) {
     System.out.println("Código postal: " + codigo + " - Número de asentamientos: " + numeroAsentamientos);
 }
 
-// El for se cierra aquí, significa que ya recorrimos todos los códigos
 
 
     }}
